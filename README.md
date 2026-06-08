@@ -1,16 +1,15 @@
-## Hi there 👋
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/82f73212-7f76-4bfb-8b19-e2781e75c77d" /># Hey there, I'm Rohit 👋
 
-<!--
-**rohit7n/rohit7n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student passionate about coding, technology, and creating useful projects.
 
-Here are some ideas to get you started:
+### Skills
+💻 HTML • CSS • JavaScript  
+🐍 Python  
+☕ Java  
+🔧 Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect
+📂 GitHub: https://github.com/rohit7n
+
+---
+*"Code. Learn. Build. Repeat."*
